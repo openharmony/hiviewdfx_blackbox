@@ -27,6 +27,6 @@ static_library("blackbox") {
     "//base/hiviewdfx/blackbox/interfaces/native/kits",
     "//base/hiviewdfx/hiview_lite",
     "//base/hiviewdfx/hilog_lite/interfaces/native/kits/hilog_lite",
-    "//utils/native/lite/include",
+    "//commonlibrary/utils_lite/include",
   ]
 }
